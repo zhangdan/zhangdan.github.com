@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://zhangdan.github.io/atom.xml" rel="self"/>
-  <link href="http://zhangdan.github.io/"/>
-  <updated>2014-06-21T17:08:05+08:00</updated>
-  <id>http://zhangdan.github.io/</id>
+  <title><![CDATA[iOS开发者的博客]]></title>
+  <link href="http://www.iosnote.com/atom.xml" rel="self"/>
+  <link href="http://www.iosnote.com/"/>
+  <updated>2014-06-21T17:29:52+08:00</updated>
+  <id>http://www.iosnote.com/</id>
   <author>
     <name><![CDATA[张丹]]></name>
     
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[The Second]]></title>
-    <link href="http://zhangdan.github.io/blog/2014/06/21/the-second/"/>
+    <link href="http://www.iosnote.com/blog/2014/06/21/the-second/"/>
     <updated>2014-06-21T17:00:29+08:00</updated>
-    <id>http://zhangdan.github.io/blog/2014/06/21/the-second</id>
+    <id>http://www.iosnote.com/blog/2014/06/21/the-second</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Post Title Dan]]></title>
-    <link href="http://zhangdan.github.io/blog/2014/06/21/post-title-dan/"/>
+    <link href="http://www.iosnote.com/blog/2014/06/21/post-title-dan/"/>
     <updated>2014-06-21T14:51:10+08:00</updated>
-    <id>http://zhangdan.github.io/blog/2014/06/21/post-title-dan</id>
+    <id>http://www.iosnote.com/blog/2014/06/21/post-title-dan</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://zhangdan.github.io/blog/2014/06/21/post-title-dan/</loc>
+        <loc>http://www.iosnote.com/blog/2014/06/21/post-title-dan/</loc>
         <lastmod>2014-06-21T14:51:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhangdan.github.io/blog/2014/06/21/the-second/</loc>
+        <loc>http://www.iosnote.com/blog/2014/06/21/the-second/</loc>
         <lastmod>2014-06-21T17:00:29+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhangdan.github.io/blog/archives/</loc>
+        <loc>http://www.iosnote.com/blog/archives/</loc>
         <lastmod>2014-06-21T17:00:29+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhangdan.github.io/</loc>
+        <loc>http://www.iosnote.com/</loc>
         <lastmod>2014-06-21T17:00:29+08:00</lastmod>
     </url>
     <url>
-        <loc>http://zhangdan.github.io/robots.txt</loc>
+        <loc>http://www.iosnote.com/robots.txt</loc>
         <lastmod>2014-06-21T14:49:57+08:00</lastmod>
     </url>
 </urlset>
